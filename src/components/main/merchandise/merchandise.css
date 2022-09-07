@@ -1,0 +1,68 @@
+.details{
+    margin:100px auto;
+    /* width: 800px; */
+    display: inline-block;
+}
+
+.picture{
+    float: left;
+}
+
+.mainpart{
+    float: right;
+    width: 500px;
+    padding: 15px;
+}
+
+.desc{
+    /* height: 100px; */
+    font-size:30px
+}
+
+.pri{
+    height: 100px;
+}
+
+.option{
+    margin:20px auto ;
+    height: 100px;
+}
+
+.join_button{
+    background-color:hsl(206, 92%, 46%);
+    width: 120px;
+    height: 40px;
+    margin: 20px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    color: aliceblue;
+    float: left;
+    cursor:pointer;
+    transition: all 0.5s;
+}
+
+.buy_button{
+    background-color:hsl(240, 100%, 70%);
+    width: 120px;
+    height: 40px;
+    margin: 20px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    color: aliceblue;
+    float: left;
+    cursor:pointer;
+    transition: all 0.5s;
+    /* color: hsl(228, 22%, 95%); */
+}
+
+.join_button:hover{
+    background-color:hsl(206, 92%, 66%)
+}
+
+.buy_button:hover{
+    background-color:hsl(210, 100%, 80%)
+}

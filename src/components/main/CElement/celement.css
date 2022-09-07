@@ -1,0 +1,37 @@
+.flex-Content {
+    width: 345px;
+    margin: 15px;
+    border-radius: 18px;
+    transition: all .5s;
+}
+
+.flex-Content:hover{
+    outline: 1px solid rgb(13, 46, 87);
+    background-color: rgb(168, 164, 164,0.2);
+}
+
+.pic {
+    float: left;
+    overflow: hidden;
+    
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 18px;
+}
+
+.des {
+    
+    text-align: left;
+    font-size: 16px;
+    
+    color: #333;
+    line-height: 23px;
+}
+
+.price{
+    font-size: 22px;
+    line-height: 22px;
+}

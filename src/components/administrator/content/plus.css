@@ -1,0 +1,18 @@
+.plus_form{
+    float:left;
+    width:50%;
+    height:500px; 
+}
+
+.plus_info{
+    float: right;
+    width: 50%;
+}
+
+.plus_ipt{
+    margin: 30px;
+    width: 300px;
+}
+
+
+
